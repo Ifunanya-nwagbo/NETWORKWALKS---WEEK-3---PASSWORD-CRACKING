@@ -72,7 +72,13 @@ I finished practical exercises on password cracking where I used different tools
 
 
 
+
+
+
 <img width="687" height="235" alt="IMG_7926" src="https://github.com/user-attachments/assets/7e276c92-04a8-4a5e-a543-b2bb70d5c44f" />
+
+
+
 
 
 
