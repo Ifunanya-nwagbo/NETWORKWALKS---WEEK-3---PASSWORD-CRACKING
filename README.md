@@ -70,11 +70,6 @@ I finished practical exercises on password cracking where I used different tools
 <img width="730" height="277" alt="IMG_7925" src="https://github.com/user-attachments/assets/5e9b405d-2e1b-4b68-b441-d2e70f69ed5e" />
 
 
-
-
-
-
-
 <img width="687" height="235" alt="IMG_7926" src="https://github.com/user-attachments/assets/7e276c92-04a8-4a5e-a543-b2bb70d5c44f" />
 
 
@@ -103,6 +98,13 @@ I finished practical exercises on password cracking where I used different tools
 <img width="1387" height="790" alt="IMG_7944" src="https://github.com/user-attachments/assets/cd39bf08-b686-4b5b-911e-051a6bf8239b" />
 
 <img width="1130" height="640" alt="IMG_7942" src="https://github.com/user-attachments/assets/d0ac60a0-9f92-46c7-aea9-80603a13de5d" />
+
+
+<img width="1297" height="658" alt="IMG_7943" src="https://github.com/user-attachments/assets/be473861-f37b-434e-9294-ccc28c0917cd" />
+
+<img width="1376" height="817" alt="IMG_7947" src="https://github.com/user-attachments/assets/2e433375-5659-4ab5-ada6-635e866a82dd" />
+
+<img width="953" height="592" alt="IMG_7939" src="https://github.com/user-attachments/assets/e0d5243e-6056-4de6-90a2-5ccb50c4e3ef" />
 
 
 
