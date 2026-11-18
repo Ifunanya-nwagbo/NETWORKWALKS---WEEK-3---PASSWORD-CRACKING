@@ -61,6 +61,12 @@ and then connected hexstrike MCP to Claude desktop using this code 👇🏼
 }
 ```
 
+## CONCLUSION
+I finished practical exercises on password cracking where I used different tools to attain the password of password protected documents provided by Netwotkwalks. please note that this was done solely for learning and research purposes and I was given explicit permission to carry this operation out. I used John the ripper to extract the password from the hashes provided by the hash extractor. I further used the hash calculator to extract the password and tried my hands on the optional exercise where I incorporated Claude AI to help extract the passwords using John the Ripper.
+
+
+## EVIDENCES COLLECTED 
+
 
 
 
