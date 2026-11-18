@@ -23,4 +23,6 @@ In this report, I used Kali Linux tools several times for password cracking the 
 
 ## ACTIVITIES CARRIED OUT
 PASSWORD CRACKING
+
+
 I used John The Ripper to expose the password of the password protected document after extracting the hashes of the document using an online hash extractor .  I further used the provided hash calculator as an alternative way to perform the password cracking process to reveal the password of the document. I went a step further to try my hands on the optional exercises where I used hexstrike as a bridge to install Claude AI , and further used Claude AI to  to use John the ripper to reveal the password of the password encrypted document . 
