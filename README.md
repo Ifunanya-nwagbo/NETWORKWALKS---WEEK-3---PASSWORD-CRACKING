@@ -67,6 +67,19 @@ I finished practical exercises on password cracking where I used different tools
 
 ## EVIDENCES COLLECTED 
 
+<img width="730" height="277" alt="IMG_7925" src="https://github.com/user-attachments/assets/5e9b405d-2e1b-4b68-b441-d2e70f69ed5e" />
+
+<img width="687" height="235" alt="IMG_7926" src="https://github.com/user-attachments/assets/7e276c92-04a8-4a5e-a543-b2bb70d5c44f" />
+
+
+<img width="819" height="548" alt="IMG_7929" src="https://github.com/user-attachments/assets/2d487757-dfbd-4731-86cb-08b3c6d507ee" />
+
+
+
+
+
+
+
 
 
 
