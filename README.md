@@ -38,14 +38,29 @@ OS. I did so using this code 👇🏼
 echo "deb [signed-by=/usr/share/keyrings/claude-desktop-unofficial.gpg arch=amd64,arm64] https://claude-desktop-debian.dev stable main" | sudo tee /etc/apt/sources.list.d/claude-desktop-unofficial.list
 sudo apt update && sudo apt install -y claude-desktop-unofficial
 ```
-
-——
-
 started the Hexstrike AI MCP server with this code 👇🏼
 
 ```cd ~/hexstrike-ai
 source hexstrike-env/bin/activate
-python3 hexstrike_server.```
+python3 hexstrike_server.
+```
+
+and then connected hexstrike MCP to Claude desktop using this code 👇🏼
+
+```{
+  "mcpServers": {
+    "hexstrike-ai": {
+      "command": "/home/kali/hexstrike-ai/hexstrike-env/bin",
+      "args": [
+        "/home/kali/hexstrike-ai/hexstrike_mcp.py",
+        "--server",
+        "http://localhost:8888"
+      ]
+    }
+  }
+}
+```
+
 
 
 
