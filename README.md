@@ -7,3 +7,15 @@ if you use this information for ill purposes. Improper use may lead to a permane
 
 ## INTRODUCTION
 In this report, I used Kali Linux tools several times for password cracking the encrypted documents provided by Networkwalks and also, the usage of Claude AI was used as an alternative method of password cracking  to help with password cracking process .  I have been able to demonstrate how an attacker would go about getting sensitive information like the password to your password protected documents and gain access to your personal information and how he would go about the password cracking process. I'm in Week 3 of my ongoing  internship program at Network walks. All commands were run in a Windows computer in Kali Linux (footprinting). Each of the steps below includes the exact command that is run, the result, a screen shot and a short explanation of why this discovery was important as an attacker.
+
+## TOOLS INCORPORATED
+
+| TOOLS | PURPOSE |
+| :--- | :--- |
+| Kali Linux and Windows | Operating systems utilized in password cracking operations. |
+| John The Ripper | Used for cracking the hashes and reveal the password |
+| Hash extractor | To extract the hashes from the password protected document|
+| Notepad | To record the hashes. |
+| Hash calculator | Alternative way to calculate and reveal the password  |
+| Hexstrike  | To install Claude AI. |
+| Claude Ai | To Use John the Ripper to crack the password to reveal the password of the password protected document . |
