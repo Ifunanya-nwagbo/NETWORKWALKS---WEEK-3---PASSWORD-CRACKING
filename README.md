@@ -38,3 +38,11 @@ OS. I did so using this code 👇🏼
 echo "deb [signed-by=/usr/share/keyrings/claude-desktop-unofficial.gpg arch=amd64,arm64] https://claude-desktop-debian.dev stable main" | sudo tee /etc/apt/sources.list.d/claude-desktop-unofficial.list
 sudo apt update && sudo apt install -y claude-desktop-unofficial```
 
+started the Hexstrike AI MCP server with this code 👇🏼
+
+```cd ~/hexstrike-ai
+source hexstrike-env/bin/activate
+python3 hexstrike_server.```
+
+
+
