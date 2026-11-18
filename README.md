@@ -107,6 +107,16 @@ I finished practical exercises on password cracking where I used different tools
 <img width="953" height="592" alt="IMG_7939" src="https://github.com/user-attachments/assets/e0d5243e-6056-4de6-90a2-5ccb50c4e3ef" />
 
 
+ ## —END—
+
+ 
+| Category | Details |
+| :--- | :--- |
+| **👤 Author** | **Lilian Nwagbo** — Cybersecurity Professional B084 |
+| **🔗 LinkedIn** | [linkedin.com/in/ifunanya-nwagbo-mit](https://www.linkedin.com/in/ifunanya-nwagbo-mit/) |
+| **📌 Program Name** | Cybersecurity Program at Networkwalks |
+| **📅 Week** | Week 03 |
+| **💻 Repository** | GitHub |
 
 
 
