@@ -29,7 +29,7 @@ I used John The Ripper to expose the password of the password protected document
 
 
 
-## PASSWORD CRACKING WITH CLAUE AI
+## PASSWORD CRACKING WITH CLAUDE AI
 Hexstrike was installed to serve as a bridge to install Claude AI  . I further installed Claude Desktop on my Kali Linux virtual
 OS. I did so using this code 👇🏼
 
