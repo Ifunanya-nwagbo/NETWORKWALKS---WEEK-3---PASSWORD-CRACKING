@@ -25,4 +25,16 @@ In this report, I used Kali Linux tools several times for password cracking the 
 PASSWORD CRACKING
 
 
-I used John The Ripper to expose the password of the password protected document after extracting the hashes of the document using an online hash extractor .  I further used the provided hash calculator as an alternative way to perform the password cracking process to reveal the password of the document. I went a step further to try my hands on the optional exercises where I used hexstrike as a bridge to install Claude AI , and further used Claude AI to  to use John the ripper to reveal the password of the password encrypted document . 
+I used John The Ripper to expose the password of the password protected document after extracting the hashes of the document using an online hash extractor .  I further used the provided hash calculator as an alternative way to perform the password cracking process to reveal the password of the document. I went a step further to try my hands on the optional exercises where I used hexstrike as a bridge to install Claude AI , and further used Claude AI to  to use John the ripper to reveal the password of the password encrypted document
+
+
+
+## PASSWORD CRACKING WITH CLAUE AI
+Hexstrike was installed to serve as a bridge to install Claude AI  . I further installed Claude Desktop on my Kali Linux virtual
+OS. I did so using this code 👇🏼
+
+
+```curl -fsSL https://claude-desktop-debian.dev | sudo gpg --dearmor -o /usr/share/keyrings/claude-desktop-unofficial.gpg
+echo "deb [signed-by=/usr/share/keyrings/claude-desktop-unofficial.gpg arch=amd64,arm64] https://claude-desktop-debian.dev stable main" | sudo tee /etc/apt/sources.list.d/claude-desktop-unofficial.list
+sudo apt update && sudo apt install -y claude-desktop-unofficial```
+
